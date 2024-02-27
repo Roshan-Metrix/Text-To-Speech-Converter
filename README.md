@@ -26,6 +26,7 @@ Experience the Text-to-Speech Converter live [here](https://neptech-roshan.githu
 ## Contributing
 Contributions are welcome! If you have any suggestions for improving the application or adding new features, feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Copyright 
+This project is licensed under the [MIT License]
+-Roshan
 
