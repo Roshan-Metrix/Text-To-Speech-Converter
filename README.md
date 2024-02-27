@@ -21,7 +21,7 @@ The Text-to-Speech Converter is a web application that allows users to convert w
 Experience the Text-to-Speech Converter live [here](https://neptech-roshan.github.io/Text-To-Speech-Converter/).
 
 ## Screenshots
-![Text-to-Speech Converter Screenshot](/path/to/screenshot.png)
+![Text-to-Speech Converter Screenshot](screenshot.png)
 
 ## Contributing
 Contributions are welcome! If you have any suggestions for improving the application or adding new features, feel free to submit issues or pull requests.
