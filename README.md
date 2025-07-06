@@ -27,6 +27,6 @@ Experience the Text-to-Speech Converter live [here](https://roshan-metrix.github
 Contributions are welcome! If you have any suggestions for improving the application or adding new features, feel free to submit issues or pull requests.
 
 ## Copyright 
-This project is licensed under the [MIT License]
+This project is licensed under the [MIT License](license.txt)
 -Roshan
 
